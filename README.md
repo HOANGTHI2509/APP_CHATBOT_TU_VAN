@@ -18,4 +18,4 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
-Đây là bài nghiên cứu khoa học của sinh viên lớp CNTT 17 - 07 do thầy Đỗ Anh Thơ
+Đây là bài nghiên cứu khoa học của sinh viên lớp CNTT 17 - 07 do Giảng viên: ThS Đỗ Anh Thơ  hướng dẫn
