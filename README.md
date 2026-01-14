@@ -18,4 +18,4 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
-Đây là bài tập lớn (BTL) cho học phần "Phát triển Phần mềm Mã nguồn mở". Dự án tập trung vào việc xây dựng một website quản lý và đặt vé xem phim trực tuyến hoàn chỉnh, sử dụng kiến trúc "thuần PHP" (Server-Side Rendering) kết hợp với CSDL MySQL.
+Đây là bài nghiên cứu khoa học của sinh viên lớp CNTT 17 - 07 do thầy Đỗ Anh Thơ
