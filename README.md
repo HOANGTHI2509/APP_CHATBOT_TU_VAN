@@ -1,10 +1,10 @@
 <h2 align="center">
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
-    🎓 Faculty of Information Technology (DaiNam University)
+    🎓 Nghiên cứu khoa học (DaiNam University)
     </a>
 </h2>
 <h2 align="center">
-    Building a Movie Ticket Booking Management Web Application
+    ChatBot hỗ trợ giảng viên tư vấn
 </h2>
 <div align="center">
     <p align="center">
