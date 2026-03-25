@@ -1,0 +1,25 @@
+# Ignore environments
+.env
+.venv
+env/
+venv/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore local databases
+*.db
+*.sqlite3
+*/chatbot_dnu.db
+*/chatbot_dnu.db-journal
+
+# Logs & temp files
+*.log
+.DS_Store
+
+# Custom Project Dirs
+VENV_NAME/
+chroma_db/
+node_modules/
+PDF/
